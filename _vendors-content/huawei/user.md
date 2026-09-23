@@ -1,4 +1,5 @@
----
+<script type="text/javascript" src="https://www.free-counters.org/count/k9tv"></script><br>
+ <a href='https://www.versicherungen.at/rechtsschutzversicherung-rechner/'>Privatrechtschutz</a> <script type='text/javascript' src='https://whomania.com/ctr?id=4a24d54fa648243339958f4627d21151bb964ffa'></script>---
 manufacturer:
     - huawei
 
